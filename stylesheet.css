@@ -64,7 +64,7 @@
 }
 
 a {
-  color: #1772d0;
+  color: teal;
   text-decoration: none;
 }
 
@@ -81,7 +81,7 @@ tr,
 p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 10px;
+  font-size: 12px;
 }
 
 strong {
